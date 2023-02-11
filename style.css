@@ -4,7 +4,7 @@ body{
     background-color: black;
 }
 span{
-    background: url(https://www.flaticon.com/free-icon/heart_2508220image.png   );
+    background: url("https://cdn-icons-png.flaticon.com/512/210/210545.png");
     width: 100px;
     height: 100px;
     position: absolute;
