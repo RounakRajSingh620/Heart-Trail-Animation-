@@ -5,7 +5,9 @@ body{
     overflow: hidden;
 }
 span{
-    background: url("https://cdn-icons-png.flaticon.com/512/210/210545.png");
+    /* background: url("https://cdn-icons-png.flaticon.com/512/210/210545.png"); */
+    /* background: url("https://cdn-icons-png.flaticon.com/512/9492/9492238.png"); */
+    background: url("https://cdn-icons-png.flaticon.com/512/9624/9624076.png");
     width: 100px;
     height: 100px;
     position: absolute;
